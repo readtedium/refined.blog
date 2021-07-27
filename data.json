@@ -1,6 +1,21 @@
 {
     "data": [
         {
+            "name": "Tedium: The Dull Side of the Internet (Ernie Smith)",
+            "url": "https://tedium.co/",
+            "tags": [
+                "internet",
+                "history",
+                "technology",
+                "obscure",
+                "offbeat",
+                "computers",
+                "retro"
+            ],
+            "furl": "https://feed.tedium.co",
+            "hnp": 
+        },
+        {
             "name": "Musa Unal",
             "url": "https://musaunal.com",
             "tags": [
